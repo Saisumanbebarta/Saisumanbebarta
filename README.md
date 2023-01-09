@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [saisumanbebarta.com](saisumanbebarta.com)
+- 👨‍💻 All of my projects are available at [saisumanbebarta.com](https://saisumanbebarta.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
